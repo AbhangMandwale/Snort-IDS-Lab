@@ -10,8 +10,8 @@ Deploying **Snort** as a network intrusion detection system on a cloud Ubuntu se
 ![Attacks](https://img.shields.io/badge/Attacks-Nmap%20%7C%20SSH%20%7C%20XSS%20%7C%20SQLi-red)
 
 📄 **Full report:** [`IDS Evasion and Detection using Snort (PDF)`](docs/report.pdf)
-<!--> MSc in Computing in Applied Cyber Security — Technological University Dublin
-<!--> Author: Abhang Nitinkumar Mandwale
+<!-- MSc in Computing in Applied Cyber Security — Technological University Dublin -->
+<!-- Author: Abhang Nitinkumar Mandwale -->
 
 ---
 
